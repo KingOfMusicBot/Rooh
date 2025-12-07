@@ -40,8 +40,8 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 
-API_URL = getenv("API_URL", 'http://console.nexgenbots.xyz') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'http://console.nexgenbots.xyz')
+API_URL = getenv("API_URL", 'http://pytdbotapi.nexgenbots.xyz') #youtube song url
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'http://api.video.nexgenbots.xyz')
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots94f7c6')
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CloudBerryBots")
