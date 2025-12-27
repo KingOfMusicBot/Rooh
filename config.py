@@ -44,8 +44,8 @@ API_URL = getenv("API_URL", 'http://pytdbotapi.nexgenbots.xyz') #youtube song ur
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'http://api.video.nexgenbots.xyz')
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots94f7c6')
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CloudBerryBots")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+rbl9ppWwBQljZWVl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/jiyaaupdates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/riyaupdates")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -83,7 +83,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/gl5rg8.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/ghfv4m.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/bdcf5x.jpg"
